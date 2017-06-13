@@ -1,0 +1,25 @@
+dependencies: \
+  /Volumes/WORK/React-Native/knotel-mobile/ios/knotel/AppDelegate.m \
+  /Volumes/WORK/React-Native/knotel-mobile/ios/knotel/AppDelegate.h \
+  /Volumes/WORK/React-Native/knotel-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBundleURLProvider.h \
+  /Volumes/WORK/React-Native/knotel-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Volumes/WORK/React-Native/knotel-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Volumes/WORK/React-Native/knotel-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Volumes/WORK/React-Native/knotel-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Volumes/WORK/React-Native/knotel-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Volumes/WORK/React-Native/knotel-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Volumes/WORK/React-Native/knotel-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Volumes/WORK/React-Native/knotel-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  ../node_modules/react-native/Libraries/LinkingIOS/RCTLinkingManager.h \
+  /Volumes/WORK/React-Native/knotel-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Volumes/WORK/React-Native/knotel-mobile/ios/Fabric.framework/Modules/module.modulemap \
+  /Volumes/WORK/React-Native/knotel-mobile/ios/Fabric.framework/Headers/FABAttributes.h \
+  /Volumes/WORK/React-Native/knotel-mobile/ios/Fabric.framework/Headers/Fabric.h \
+  /Volumes/WORK/React-Native/knotel-mobile/ios/Crashlytics.framework/Modules/module.modulemap \
+  /Volumes/WORK/React-Native/knotel-mobile/ios/Crashlytics.framework/Headers/ANSCompatibility.h \
+  /Volumes/WORK/React-Native/knotel-mobile/ios/Crashlytics.framework/Headers/Answers.h \
+  /Volumes/WORK/React-Native/knotel-mobile/ios/Crashlytics.framework/Headers/CLSStackFrame.h \
+  /Volumes/WORK/React-Native/knotel-mobile/ios/Crashlytics.framework/Headers/CLSReport.h \
+  /Volumes/WORK/React-Native/knotel-mobile/ios/Crashlytics.framework/Headers/CLSLogging.h \
+  /Volumes/WORK/React-Native/knotel-mobile/ios/Crashlytics.framework/Headers/CLSAttributes.h \
+  /Volumes/WORK/React-Native/knotel-mobile/ios/Crashlytics.framework/Headers/Crashlytics.h

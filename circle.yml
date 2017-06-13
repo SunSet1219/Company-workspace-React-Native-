@@ -1,0 +1,14 @@
+general:
+  branches:
+    ignore:
+      - master
+machine:
+  node:
+    version: 6.9.2
+dependencies:
+  override:
+    - npm install
+test:
+  override:
+    - npm run-script lint-show
+    - npm test

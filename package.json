@@ -1,0 +1,42 @@
+{
+  "name": "knotel",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "lint-show": "eslint --ext=js --ext=jsx --config tools/conf/.eslintrc.js .",
+    "lint-fix": "eslint --fix --ext=js --ext=jsx --config tools/conf/.eslintrc.js . || true",
+    "test": "BABEL_ENV=knotel-unittests mocha --compilers js:babel-register --compilers jsx:babel-register --recursive tests/unittests/helper.js tests/unittests/tests/",
+    "test-watch": "BABEL_ENV=knotel-unittests mocha --watch --compilers js:babel-register --compilers jsx:babel-register --recursive tests/unittests/helper.js tests/unittests/tests/"
+  },
+  "dependencies": {
+    "baryshok-react-native-material-kit": "0.4.0",
+    "baryshok-react-native-meteor": "^1.0.4",
+    "baryshok-react-native-root-toast": "^1.0.4",
+    "firebase": "^4.1.2",
+    "js-yaml": "^3.8.4",
+    "kisi-client": "^5.0.3",
+    "moment": "2.18.1",
+    "moment-timezone": "0.5.13",
+    "react": "16.0.0-alpha.6",
+    "react-native": "0.44.0",
+    "react-native-drawer": "2.3.0",
+    "react-native-fabric": "0.4.1",
+    "react-native-router-flux": "3.38.0",
+    "react-native-simple-markdown": "^1.0.60-rc.3",
+    "react-native-vector-icons": "4.0.1",
+    "react-navigation": "^1.0.0-beta.11",
+    "realm": "^0.15.2",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.24.1",
+    "babel-preset-es2017": "^6.16.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-react-native": "^1.9.2",
+    "babel-register": "^6.24.1",
+    "eslint": "^3.19.0",
+    "mocha": "^3.4.2",
+    "testdouble": "^1.9.0"
+  }
+}
